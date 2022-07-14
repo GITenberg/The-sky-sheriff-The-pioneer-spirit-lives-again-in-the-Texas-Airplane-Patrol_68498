@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xml:base="http://www.gutenberg.org/"
+  xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns:marcrel="http://id.loc.gov/vocabulary/relators/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dcam="http://purl.org/dc/dcam/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <cc:Work rdf:about="">
+    <cc:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/"/>
+    <rdfs:comment>Archives containing the RDF files for *all* our books can be downloaded at
+            https://www.gutenberg.org/wiki/Gutenberg:Feeds#The_Complete_Project_Gutenberg_Catalog</rdfs:comment>
+  </cc:Work>
+  <pgterms:ebook rdf:about="ebooks/68498">
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <pgterms:marc904>https://babel.hathitrust.org/cgi/pt?id=mdp.39015031894929</pgterms:marc904>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-07-11</dcterms:issued>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/68498/68498-h.zip">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-07-11T05:59:44</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N2d88b7380c1d4184a308bccc35b213b8">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value>application/octet-stream</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/68498"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">911378</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nfebc16c2d5a0406db6e1d9857b5f7a46">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:title>The sky sheriff: The pioneer spirit lives again in the Texas Airplane Patrol</dcterms:title>
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/68498/68498-0.txt">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N77a3751e34b740dfa065dd05d840dc41">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">67697</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-07-11T05:59:06</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/68498"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <pgterms:marc508>Roger Frank and Sue Clark</pgterms:marc508>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</pgterms:downloads>
+    <marcrel:ill>
+      <pgterms:agent rdf:about="2009/agents/42167">
+        <pgterms:alias>Rosenmeyer, B. J. (Bernard J.)</pgterms:alias>
+        <pgterms:name>Rosenmeyer, Bernard J.</pgterms:name>
+      </pgterms:agent>
+    </marcrel:ill>
+    <pgterms:marc905>20220707173211burtis</pgterms:marc905>
+    <dcterms:language>
+      <rdf:Description rdf:nodeID="N3ea2e65d91c94d6580328f6ff429518a">
+        <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">en</rdf:value>
+      </rdf:Description>
+    </dcterms:language>
+    <dcterms:creator>
+      <pgterms:agent rdf:about="2009/agents/54799">
+        <pgterms:name>Burtis, Thomas</pgterms:name>
+      </pgterms:agent>
+    </dcterms:creator>
+    <pgterms:marc260>United States :McClure Publishing Company,1923.</pgterms:marc260>
+    <pgterms:marc907>US</pgterms:marc907>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/68498/68498-h/68498-h.htm">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N53425d7e3e8f4ba792e3810d38f2880b">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75020</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-07-11T05:59:06</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/68498"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/68498/68498-0.zip">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N033f1b40e2284eaf9b7afdc68f5b250f">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-07-11T05:59:44</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26394</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nfb992daf001b4db2bba002b29717eb70">
+            <rdf:value>application/octet-stream</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/68498"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <pgterms:marc906>1923</pgterms:marc906>
+    <dcterms:license rdf:resource="license"/>
+  </pgterms:ebook>
+</rdf:RDF>

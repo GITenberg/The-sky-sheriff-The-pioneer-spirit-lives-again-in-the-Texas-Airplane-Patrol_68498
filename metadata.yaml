@@ -1,0 +1,31 @@
+_repo: The-sky-sheriff-The-pioneer-spirit-lives-again-in-the-Texas-Airplane-Patrol_68498
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Rosenmeyer, Bernard J.
+    alias: Rosenmeyer, B. J. (Bernard J.)
+    gutenberg_agent_id: '42167'
+    url: http://www.gutenberg.org/2009/agents/42167
+creator:
+  author:
+    agent_name: Burtis, Thomas
+    gutenberg_agent_id: '54799'
+    url: http://www.gutenberg.org/2009/agents/54799
+description: ''
+gutenberg_issued: '2022-07-11'
+identifiers:
+  gutenberg: '68498'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=mdp.39015031894929
+pgterms:marc905: 20220707173211burtis
+pgterms:marc906: '1923'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: United States :McClure Publishing Company,1923.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The sky sheriff: The pioneer spirit lives again in the Texas Airplane Patrol'
+url: http://www.gutenberg.org/ebooks/68498
